@@ -1,1 +1,1 @@
-console.log("Curso Git & Github");
+console.log("Curso Git & Github usando vscode");
